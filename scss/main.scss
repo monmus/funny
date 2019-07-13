@@ -44,3 +44,16 @@ body {
     padding: 10px;
     
   }
+
+  @media (max-width: 768px) {
+    body{
+  
+      background-position: 55% 40%;
+      background-size: contain;
+      padding: 0;
+      margin: 0;
+      height: 100vh;
+      background-color: black
+     
+    }
+  }
