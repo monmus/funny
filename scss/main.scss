@@ -1,0 +1,46 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    background: url('../images/fogs.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    // background-position: 75%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    color: white;
+  }
+
+  #show-joke {
+    display: block;
+    margin: 10px auto;
+    background-color: green;
+    color: #FCDAB7;
+    border: none;
+    height: 30px;
+    width: 130px;
+    cursor: pointer;
+    &:active {
+      transform: scale(0.9);
+    }
+  }
+  
+  .joke-box {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgba(35, 3, 110, 0.8);
+    opacity:0.9;
+    padding: 10px;
+    
+  }
+
+  .joke-box1 {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgba(35, 3, 110, 0.8);
+    opacity:0.9;
+    padding: 10px;
+    
+  }
