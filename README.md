@@ -2,7 +2,7 @@
 
 App to get random joke from API
 
-Used technologies:
+# Used technologies:
 
     HTML 5
     CSS 3
